@@ -1,0 +1,13 @@
+.cardcomponent{
+    height: 180px;
+    width: 300px;
+    background-color: rgba(206, 194, 194, 0.925);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 10px;
+    border-radius: 10px;
+    
+    
+    
+}
